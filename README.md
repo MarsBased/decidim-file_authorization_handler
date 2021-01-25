@@ -1,3 +1,7 @@
+🚨🚨 **This repository is NO LONGER MAINTAINED** 🚨🚨
+
+We are no longer maintaining the platform that was used as a base for this development. We recommend you checking https://github.com/coditramuntana/decidim-file_authorization_handler in case you need a maintained and updated version of the library. 
+
 # Decidim File Authorization Handler
 
 > A plugin to add a csv based authorization handler to the Decidim platform
